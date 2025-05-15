@@ -82,14 +82,13 @@ cd imc-calculator
 
 3. Instale as dependências:
 ```bash
-npm install
+npm ci
 ```
 
 4. Execute o app (emulador ou dispositivo):
 ```bash
-npx react-native run-android
-# ou
-npx react-native run-ios
+npm start
+
 ```
 
 ---
