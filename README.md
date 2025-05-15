@@ -68,6 +68,10 @@ Utiliza `StyleSheet` para:
 
 ---
 
+### Screenshot
+![Screenshot_31](https://github.com/user-attachments/assets/b5551fa4-bbb2-4b00-8441-c923ec6e7768)
+
+
 ### Como executar
 
 1. Clone o repositório:
